@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos de Unhas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            text-align: justify;
+            color: #666;
+        }
+        .course-info {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .button {
+            display: inline-block;
+            background-color: #ff69b4;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #d94086;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cursos de Unhas</h1>
+        <p>Bem-vinda à nossa landing page especializada em cursos de unhas! Aqui você encontrará os melhores cursos para aprimorar suas habilidades em nail art.</p>
+        
+        <div class="course-info">
+            <h2>Curso de Unhas Profissional</h2>
+            <p>Aprenda técnicas avançadas de manicure e pedicure, decoração de unhas, aplicação de gel, e muito mais!</p>
+            <p>Duração: 4 semanas</p>
+            <p>Preço: R$ 39,90</p>
+            <p>Certificados: 20</p>
+            <a href="https://exemplo.com/inscricao" class="button">Inscreva-se já!</a>
+        </div>
+    </div>
+</body>
+</html>
